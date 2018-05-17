@@ -1,8 +1,8 @@
 {
   "product": [
     { "id": 1, "name": "iphone6", "price":"700" },
-    { "id": 1, "name": "iphone7", "price":"900" },
-    { "id": 1, "name": "iphone8", "price":"1200" }
+    { "id": 2, "name": "iphone7", "price":"900" },
+    { "id": 3, "name": "iphone8", "price":"1200" }
   ]
   
 }
