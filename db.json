@@ -1,10 +1,8 @@
- 
 {
-  "posts": [
-    {
-     "id":1,"name":"sunt ","price":800
-    }
-  ],
-  "id":2,"name":"qui ","price":1000
-  }
+  "product": [
+    { "id": 1, "name": "iphone6", "price":"700" },
+    { "id": 1, "name": "iphone7", "price":"900" },
+    { "id": 1, "name": "iphone8", "price":"1200" }
+  ]
+  
 }
