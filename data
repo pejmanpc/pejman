@@ -1,0 +1,37 @@
+{
+  "product": [
+    {
+      "name": "pop" ,
+      "price": 500 ,
+      "code" : 12 , 
+      "details" : "pop details"
+    },
+    {
+      "name": "pop2" ,
+      "price": 800 ,
+      "code" : 13 , 
+      "details" : "pop details"
+    },
+    {
+      "name": "pop3" ,
+      "price": 900 ,
+      "code" : 14 , 
+      "details" : "pop details"
+    }
+  ],
+
+
+  "user": [
+    {
+      "id": 1,
+      "name": "name 1 ",
+      "family": "last name"
+    },
+    {
+      "id": 2,
+      "name": "name 2 ",
+      "family": "last name2"
+    }
+  ]
+   
+}
