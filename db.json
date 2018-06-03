@@ -1,66 +1,49 @@
 {
   "product": [
     {
-      "id": 1,
-      "name": "pop",
-      "price": 500,
-      "code": 12,
-      "details": "pop details"
+      "name": "Asus x55",
+      "code": "kx55s",
+      "price": 1500,
+      "details": "test information",
+      "id": 1
+    },
+    {
+      "name": "iphone 6",
+      "code": "iapp6",
+      "price": 800,
+      "details": "cellphone made by apple company",
+      "id": 2
     }
   ],
   "user": [
     {
-      "id": 1,
-      "name": "name 1 ",
-      "family": "last name"
-    },
-    {
-      "id": 2,
-      "name": "name 2 ",
-      "family": "last name2"
+      "name": "pejman",
+      "family": "vaziri",
+      "id": 1
     }
   ],
   "invoice": [
     {
-      "date": "2018-06-03",
+      "date": "2018-06-09",
       "custumer": "pejman",
-      "code": "prp4474",
-      "id": 34
-    },
-    {
-      "date": "",
-      "custumer": "",
-      "code": "",
-      "id": 35
-    },
-    {
-      "date": "2018-06-16",
-      "custumer": "bdcxb",
-      "code": "22",
-      "id": 36
+      "code": "inv900",
+      "id": 1
     }
   ],
   "buy": [
     {
-      "id": 1,
-      "invoiceId": 3,
-      "productName": "name 1",
-      "productPrice": 1,
-      "productQty": 2
+      "invoiceId": 1,
+      "productName": "Asus x55",
+      "productPrice": 1500,
+      "productQty": 2,
+      "id": 1
     },
     {
-      "invoiceId": 36,
-      "productName": "pop",
-      "productPrice": "500",
-      "productQty": "3",
+      "invoiceId": 1,
+      "productName": "iphone 6",
+      "productPrice": 800,
+      "productQty": 4,
       "id": 2
-    },
-    {
-      "invoiceId": 36,
-      "productName": "pop",
-      "productPrice": "500",
-      "productQty": "33",
-      "id": 3
     }
   ]
 }
